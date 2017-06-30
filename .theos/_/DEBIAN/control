@@ -1,0 +1,10 @@
+Package: com.spark.modularcc-samplemodule
+Name: ModularCC-SampleModule
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Sample custom ModularCC module
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-6+debug
+Installed-Size: 200
